@@ -3,4 +3,4 @@
 
 
 # 添加一个图片
-![我的头像](https://github.com/chenbocqu/Diary/blob/master/my_head_pic.jpg)
+![我的头像](https://github.com/chenbocqu/Diary/blob/master/imgs/my_head_pic.jpg)
