@@ -13,7 +13,9 @@
 <img src="https://github.com/chenbocqu/Diary/blob/master/imgs/new_a_repository.png" width="70%"/>
 
 
-选中仓库可以预览当前自己的现有仓库（需要注意的是Github统一使用仓库概念进行管理，实际的开发过程中也可以将其理解为一个项目）。
+选中仓库可以预览当前自己的现有仓库（需要注意的是Github统一
+使用仓库概念进行管理，实际的开发过程中也可以将其理解为一个
+项目）。
 
 <img src="https://github.com/chenbocqu/Diary/blob/master/imgs/new_a_repository1.png" width="70%"/>
 
@@ -25,8 +27,17 @@
 
 <img src="https://github.com/chenbocqu/Diary/blob/master/imgs/clone.png" width="70%"/>
 
-在File选项中选择相应的项目克隆到本地，在本地需要选择项目存放的位置，克隆好后在本地的文件夹中就可以看到该项目，然后进行一些项目开发的相关操作。
+在File选项中选择相应的项目克隆到本地，在本地需要选择项目存
+放的位置，克隆好后在本地的文件夹中就可以看到该项目，然后进
+行一些项目开发的相关操作。
 
+## 4.开发并push到github
+
+<img src="https://github.com/chenbocqu/Diary/blob/master/imgs/commit.png" width="70%"/>
+
+以本项目为例，在本地进行编辑后，Github客户端即可检测到变化，
+此时可以进行填入相关的信息进行提交，最后push到github官方网
+站。
 
 # 参考资料
 
