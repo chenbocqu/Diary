@@ -14,7 +14,10 @@
 
 
 	选中仓库可以预览当前自己的现有仓库。
+	
+<img src="https://github.com/chenbocqu/Diary/blob/master/imgs/new_a_repository1.png" width="70%"/>
 
+	填入项目名称以及描述，以及添加README文件，便于他人的了解和加入。
 
 
 
