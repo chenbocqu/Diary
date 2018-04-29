@@ -9,9 +9,16 @@
 
 ## 2.新建仓库
 
-	
-* 如果你觉得这个文档还不错,请赏我一颗star吧~~~
+
+![新建仓库](https://github.com/chenbocqu/Diary/blob/master/imgs/new_a_repository.png)
+
+选中仓库可以预览当前自己的现有仓库。
 
 
-# 添加一个图片
-![我的头像](https://github.com/chenbocqu/Diary/blob/master/imgs/my_head_pic.jpg)
+
+
+如果你觉得这个文档还不错,请赏我一颗star吧~~~
+
+
+
+
