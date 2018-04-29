@@ -25,7 +25,14 @@
 
 <img src="https://github.com/chenbocqu/Diary/blob/master/imgs/clone.png" width="70%"/>
 
-在File选项中选择克隆项目的本地，在本地需要选择项目存放的位置，克隆好后在本地的文件夹中就可以看到该项目，然后进行一些项目开发的相关操作。
+在File选项中选择相应的项目克隆到本地，在本地需要选择项目存放的位置，克隆好后在本地的文件夹中就可以看到该项目，然后进行一些项目开发的相关操作。
+
+
+# 参考资料
+
+- imooc课程-搬进Github
+
+[![搬进Github](https://github.com/chenbocqu/Diary/blob/master/imgs/imooc_github.png)](https://www.imooc.com/video/7623)
 
 
 --- 如果你觉得这个文档还不错,请赏我一颗star吧! ---
