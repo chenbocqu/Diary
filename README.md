@@ -9,8 +9,8 @@
 
 ## 2.新建仓库
 
+<img src="https://github.com/chenbocqu/Diary/blob/master/imgs/new_a_repository.png" width="70%"/>
 
-![新建仓库](https://github.com/chenbocqu/Diary/blob/master/imgs/new_a_repository.png)
 
 选中仓库可以预览当前自己的现有仓库。
 
